@@ -1,0 +1,437 @@
+{
+  "title": "Salvador Valdés Mesa",
+  "pageID": 57165069,
+  "categories": [
+    "1945 births",
+    "Cuban people of African descent",
+    "Living people",
+    "Cuban politicians",
+    "Cuban communists",
+    "Communist Party of Cuba politicians",
+    "Vice presidents of Cuba"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Salvador Antonio Valdés Mesa (born 13 June 1945) is a Cuban politician and former trade union leader.",
+              "links": [
+                {
+                  "text": "Cuban",
+                  "type": "internal",
+                  "page": "Cuba"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Salvador Antonio Valdés Mesa"
+                ]
+              }
+            },
+            {
+              "text": "He is the First Vice President of Cuba since April 2018 and is a member of the Political Bureau of the Communist Party of Cuba.",
+              "links": [
+                {
+                  "text": "First Vice President of Cuba",
+                  "type": "internal",
+                  "page": "Vice President of Cuba"
+                },
+                {
+                  "type": "internal",
+                  "page": "Communist Party of Cuba"
+                }
+              ]
+            },
+            {
+              "text": "He was elected to succeed Miguel Díaz-Canel as First Vice President of Cuba on 19 April 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Miguel Díaz-Canel"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Vice President of Cuba",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Valdés",
+            "Mesa"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1945",
+          "month": "6",
+          "day": "13",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Salvador Valdés Mesa"
+          },
+          "image": {
+            "text": "Visita oficial a Namibia del Vicepresidente cubano Salvador Valdés Mesa.jpg"
+          },
+          "office": {
+            "text": "Vice President of Cuba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vice President of Cuba"
+              }
+            ]
+          },
+          "president": {
+            "text": "Miguel Díaz-Canel"
+          },
+          "term_start": {
+            "text": "10 October 2019"
+          },
+          "predecessor": {
+            "text": "Rafael Guas Inclán (1959)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rafael Guas Inclán"
+              }
+            ]
+          },
+          "office1": {
+            "text": "First Vice President of the Council of State",
+            "links": [
+              {
+                "text": "First Vice President of the Council of State",
+                "type": "internal",
+                "page": "First Vice President of Cuba"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Miguel Díaz-Canel"
+          },
+          "term_start1": {
+            "text": "19 April 2018"
+          },
+          "term_end1": {
+            "text": "10 October 2019"
+          },
+          "predecessor1": {
+            "text": "Miguel Díaz-Canel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Miguel Díaz-Canel"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Post abolished"
+          },
+          "office2": {
+            "text": "Fifth Vice President of the Council of State",
+            "links": [
+              {
+                "text": "Fifth Vice President of the Council of State",
+                "type": "internal",
+                "page": "Vice President of Cuba"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Raúl Castro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Raúl Castro"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "24 February 2013"
+          },
+          "term_end2": {
+            "text": "19 April 2018"
+          },
+          "alongside2": {
+            "text": "Gladys María Bejerano Portela, Mercedes López Acea, José Ramón Machado Ventura and Ramiro Valdés",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gladys María Bejerano Portela"
+              },
+              {
+                "type": "internal",
+                "page": "José Ramón Machado Ventura"
+              },
+              {
+                "type": "internal",
+                "page": "Ramiro Valdés"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Esteban Lazo Hernández",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Esteban Lazo Hernández"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Beatriz Jonson Urrutia (elect)"
+          },
+          "office3": {
+            "text": "Minister of Labor and Social Security"
+          },
+          "president3": {
+            "text": "Fidel Castro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fidel Castro"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1995",
+            "number": 1995
+          },
+          "term_end3": {
+            "text": "1999",
+            "number": 1999
+          },
+          "birth_date": {
+            "text": "June 13, 1945"
+          },
+          "birth_place": {
+            "text": "Amancio Rodríguez, Cuba",
+            "links": [
+              {
+                "text": "Amancio Rodríguez",
+                "type": "internal",
+                "page": "Amancio, Cuba"
+              },
+              {
+                "text": "Cuba",
+                "type": "internal",
+                "page": "Republic of Cuba (1902–1959)"
+              }
+            ]
+          },
+          "party": {
+            "text": "26th of July Movement (1961–1965) Communist Party of Cuba (1965–present)",
+            "links": [
+              {
+                "text": "26th of July Movement",
+                "type": "internal",
+                "page": "26th of July Movement"
+              },
+              {
+                "type": "internal",
+                "page": "Communist Party of Cuba"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Julia Piloto Saborit (1981-actuality)"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.foreignaffairs.com/articles/cuba/2018-03-28/cuba-after-castros",
+          "title": "Cuba After the Castros",
+          "last": "Jimenez",
+          "first": "Marguerite",
+          "date": "2018-03-28",
+          "work": "Foreign Affairs",
+          "access-date": "2018-04-20",
+          "language": "en-US",
+          "issn": "0015-7120",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.nbcnews.com/news/latino/who-miguel-d-az-canel-cuba-s-likely-new-president-n860906",
+          "title": "End of the Castro era: Who's the man likely to be Cuba's next president?",
+          "work": "NBC News",
+          "access-date": "2018-04-20",
+          "language": "en-US",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "date": "August 2022",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Salvador Valdés was part of the Association of Young Rebels since 1961, after the triumph of the Cuban Revolution.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cuban Revolution"
+                }
+              ]
+            },
+            {
+              "text": "He was a leader of the Workers' Central Union of Cuba and the Communist Party of Cuba.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Workers' Central Union of Cuba"
+                }
+              ]
+            },
+            {
+              "text": "He served as Minister of Labor and Social Security between 1995 and 1999, when he was elected first secretary of the PCC in the province of Camagüey.",
+              "links": [
+                {
+                  "text": "Minister of Labor and Social Security",
+                  "type": "internal",
+                  "page": "Minister of Labour"
+                },
+                {
+                  "type": "internal",
+                  "page": "Camagüey"
+                }
+              ]
+            },
+            {
+              "text": "He has been a deputy of the National Assembly of People's Power since 1993, he is a member of the Political Council of the Central Committee of the Communist Party of Cuba and a member of the Council of State (first for Santa Cruz del Sur, then Güines starting in the 9th legislature) where he holds one of the five Vice Presidencies.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of People's Power"
+                },
+                {
+                  "text": "Political Council of the Central Committee",
+                  "type": "internal",
+                  "page": "Central Committee of the Communist Party of Cuba"
+                },
+                {
+                  "text": "Council of State",
+                  "type": "internal",
+                  "page": "Council of State (Cuba)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Santa Cruz del Sur"
+                },
+                {
+                  "type": "internal",
+                  "page": "Güines"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.parlamentocubano.cu/index.php/diputados-elegidos-en-la-viii-legislatura-camaguey/",
+          "title": "Diputados elegidos en la VIII Legislatura – Camagüey",
+          "date": "2016-06-30",
+          "work": "Parlamento Cubano",
+          "access-date": "2018-04-20",
+          "language": "en-US",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.cubadebate.cu/etiqueta/salvador-valdes-mesa/",
+          "title": "Salvador Valdés Mesa {{!}} Cubadebate",
+          "website": "Cubadebate",
+          "language": "es-ES",
+          "access-date": "2018-04-20",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commonscat"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Miguel Díaz-Canel",
+          "template": "s-bef"
+        },
+        {
+          "title": "First Vice President of Cuba",
+          "years": "2018-present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Biography by CIDOB (in Spanish)",
+            "links": [
+              {
+                "text": "Biography by CIDOB",
+                "type": "external",
+                "site": "https://www.cidob.org/biografias_lideres_politicos/america_central_y_caribe/cuba/salvador_valdes_mesa"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

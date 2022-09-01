@@ -1,0 +1,71 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Labor and Social Security"
+    },
+    "P580": "1995",
+    "P582": "1999"
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of Cuba"
+      ],
+      "stated_as": "Fifth Vice President of the Council of State"
+    },
+    "P580": "2013-02-24",
+    "P1365": {
+      "links": [
+        "Esteban Lazo Hernández"
+      ],
+      "stated_as": "Esteban Lazo Hernández"
+    },
+    "P582": "2018-04-19",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Beatriz Jonson Urrutia (elect)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "First Vice President of Cuba"
+      ],
+      "stated_as": "First Vice President of the Council of State"
+    },
+    "P580": "2018-04-19",
+    "P1365": {
+      "links": [
+        "Miguel Díaz-Canel"
+      ],
+      "stated_as": "Miguel Díaz-Canel"
+    },
+    "P582": "2019-10-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Post abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of Cuba"
+      ],
+      "stated_as": "Vice President of Cuba"
+    },
+    "P580": "2019-10-10",
+    "P1365": {
+      "links": [
+        "Rafael Guas Inclán"
+      ],
+      "stated_as": "Rafael Guas Inclán (1959)"
+    }
+  }
+]

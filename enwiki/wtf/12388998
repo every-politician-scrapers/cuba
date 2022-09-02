@@ -1,0 +1,366 @@
+{
+  "title": "Esteban Lazo Hernández",
+  "pageID": 12388998,
+  "categories": [
+    "1944 births",
+    "Living people",
+    "People from Matanzas Province",
+    "Communist Party of Cuba politicians",
+    "Presidents of the National Assembly of People's Power",
+    "Cuban revolutionaries",
+    "Government ministers of Cuba",
+    "People of the Cuban Revolution",
+    "Cuban people of African descent"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Juan Esteban Lazo Hernández (born 26 February 1944) is a Cuban politician who has been the President of the National Assembly of People's Power, Cuba's parliament, since 2013.",
+              "links": [
+                {
+                  "text": "Cuban",
+                  "type": "internal",
+                  "page": "Cuba"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Assembly of People's Power"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Juan Esteban Lazo Hernández"
+                ]
+              }
+            },
+            {
+              "text": "Previously he was Vice-President of the Cuban Council of State.",
+              "links": [
+                {
+                  "text": "Cuban Council of State",
+                  "type": "internal",
+                  "page": "Council of State (Cuba)"
+                }
+              ]
+            },
+            {
+              "text": "He is a member of the Politburo of the Communist Party of Cuba since 1980 and National Assembly of People's Power member since 1981.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Politburo of the Communist Party of Cuba"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On February 25, 2013, Lazo was named as the President of the National Assembly of People's Power.",
+              "links": [
+                {
+                  "text": "President of the National Assembly of People's Power",
+                  "type": "internal",
+                  "page": "List of Presidents of the National Assembly of People's Power (Cuba)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cuban politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Lazo",
+            "Hernández"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1944",
+          "month": "2",
+          "day": "26",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Esteban Lazo Hernández"
+          },
+          "image": {
+            "text": "Esteban Lazo Hernandez 2022.jpg"
+          },
+          "office": {
+            "text": "18th President of the Council of State",
+            "links": [
+              {
+                "text": "Council of State",
+                "type": "internal",
+                "page": "Council of State (Cuba)"
+              }
+            ]
+          },
+          "vicepresident": {
+            "text": "Ana María Mari Machado",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ana María Mari Machado"
+              }
+            ]
+          },
+          "leader": {
+            "text": "Raúl Castro (First Secretary of the Communist Party) Miguel Díaz-Canel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Raúl Castro"
+              },
+              {
+                "text": "First Secretary of the Communist Party",
+                "type": "internal",
+                "page": "First Secretary of the Communist Party of Cuba"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 October 2019"
+          },
+          "predecessor": {
+            "text": "Miguel Díaz-Canel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Miguel Díaz-Canel"
+              }
+            ]
+          },
+          "office1": {
+            "text": "President of the National Assembly of People's Power",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of People's Power"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "24 February 2013"
+          },
+          "leader1": {
+            "text": "Raúl Castro (First Secretary of the Communist Party) Miguel Díaz-Canel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Raúl Castro"
+              },
+              {
+                "text": "First Secretary of the Communist Party",
+                "type": "internal",
+                "page": "First Secretary of the Communist Party of Cuba"
+              },
+              {
+                "type": "internal",
+                "page": "Miguel Díaz-Canel"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Ricardo Alarcón",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ricardo Alarcón"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Juan Esteban Lazo Hernández"
+          },
+          "birth_date": {
+            "text": "February 26, 1944"
+          },
+          "birth_place": {
+            "text": "Jovellanos, Matanzas, Cuba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jovellanos"
+              },
+              {
+                "text": "Matanzas",
+                "type": "internal",
+                "page": "Matanzas Province"
+              },
+              {
+                "text": "Cuba",
+                "type": "internal",
+                "page": "Republic of Cuba (1902–1959)"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Cuban",
+            "links": [
+              {
+                "text": "Cuban",
+                "type": "internal",
+                "page": "Cuba"
+              }
+            ]
+          },
+          "party": {
+            "text": "Communist Party of Cuba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Party of Cuba"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Civil servant",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Civil servant"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lazo Hernández was born on 26 February 1944 in Jovellanos, Matanzas.",
+              "links": [
+                {
+                  "text": "Jovellanos, Matanzas",
+                  "type": "internal",
+                  "page": "Jovellanos"
+                }
+              ]
+            },
+            {
+              "text": "He attended his neighborhood's elementary school up until 5th Grade, at which point he dropped out and began working with his family in the fields."
+            },
+            {
+              "text": "He was 14 during the Triumph of the Revolution, and soon after he got a job at a rice mill.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Triumph of the Revolution"
+                }
+              ]
+            },
+            {
+              "text": "He continued to do jobs in the agricultural field until the age of 19."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Juan Esteban Lazo Hernández",
+          "url": "https://www.parlamentocubano.gob.cu/juan-esteban-lazo-hernandez",
+          "access-date": "2022-06-04",
+          "website": "Asamblea Nacional del Poder Popular",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "title": "President of Cuban National Assembly",
+          "before": "Ricardo Alarcón",
+          "after": "Incumbent",
+          "years": "2013–",
+          "template": "succession box"
+        },
+        {
+          "template": "commonscat"
+        },
+        {
+          "template": "cuba-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Biography by CIDOB (in Spanish)",
+            "links": [
+              {
+                "text": "Biography by CIDOB",
+                "type": "external",
+                "site": "https://www.cidob.org/biografias_lideres_politicos/america_central_y_caribe/cuba/esteban_lazo_hernandez"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

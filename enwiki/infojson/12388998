@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of People's Power"
+      ],
+      "stated_as": "President of the National Assembly of People's Power"
+    },
+    "P580": "2013-02-24",
+    "P1365": {
+      "links": [
+        "Ricardo Alarcón"
+      ],
+      "stated_as": "Ricardo Alarcón"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Council of State (Cuba)"
+      ],
+      "stated_as": "18th President of the Council of State"
+    },
+    "P580": "2019-10-10",
+    "P1365": {
+      "links": [
+        "Miguel Díaz-Canel"
+      ],
+      "stated_as": "Miguel Díaz-Canel"
+    }
+  }
+]

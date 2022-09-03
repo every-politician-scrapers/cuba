@@ -1,0 +1,155 @@
+{
+  "title": "Reinaldo García Zapata",
+  "pageID": 63137760,
+  "categories": [
+    "1968 births",
+    "Living people",
+    "People from Havana",
+    "Cuban politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Reinaldo García Zapata is the current governor of Havana, in Cuba.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Havana"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cuba"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Reinaldo García Zapata"
+                ]
+              }
+            },
+            {
+              "text": "Garcia Zapata was elected governor of the city/province of Havana on January 18, 2020."
+            },
+            {
+              "text": "He previously held the title of President of the People's Power Provincial Assembly of Havana (mayor)."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "García replaces Marta Hernández Romero, who left office in January 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Marta Hernández Romero"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cuban politician",
+          "template": "short description"
+        },
+        {
+          "date": "April 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1968",
+          "month": "3",
+          "day": "09",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Reinaldo García Zapata"
+          },
+          "image": {
+            "text": "Reinaldo_Garcia_Zapata.png"
+          },
+          "office": {
+            "text": "Flag of City of Havana.svg\nGovernor of Havana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Havana"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 February 2020"
+          },
+          "predecessor": {
+            "text": "Marta Hernández Romero",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marta Hernández Romero"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 9, 1968"
+          },
+          "birth_place": {
+            "text": "Santiago de Cuba, Cuba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago de Cuba"
+              }
+            ]
+          },
+          "party": {
+            "text": "Communist Party of Cuba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Party of Cuba"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "{{web |date=2020-01-18 |title=conozca los gobernadores y vicegobernadores de cada una de las provincias del país (+ video) |url=http://www.cubadebate.cu/noticias/2020/01/18/conozca-los-gobernadores-y-vicegobernadores-de-cada-una-de-las-provincias-del-pais/ |access-date=2022-03-04 |website=cubadebate |language=es|undefined"
+        },
+        {
+          "template": "citation",
+          "type": "{{web |last=tribuna |title=electos el gobernador y vicegobernadora en la habana |url=http://www.tribuna.cu/capitalinas/2020-01-18/electos-el-gobernador-y-vicegobernadora-en-la-habana |access-date=2022-03-04 |website=www.tribuna.cu |language=es|undefined"
+        },
+        {
+          "template": "citation",
+          "type": "{{web |last=tribuna |title=reinaldo garcía zapata: \"resistir creando y venciendo\" |url=http://www.tribuna.cu/capitalinas/2020-02-08/resistir-creando-y-venciendo |access-date=2022-03-04 |website=www.tribuna.cu |language=es|undefined"
+        },
+        {
+          "date": "January 2021",
+          "template": "citation style"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

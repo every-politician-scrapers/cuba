@@ -109,11 +109,11 @@
         {
           "sentences": [
             {
-              "text": "Díaz-Canel is the first president to not be a Castro family member since Osvaldo Dorticós in 1976 and the first leader of the government who is not a Castro since José Miró Cardona in 1959.",
+              "text": "Díaz-Canel is the first president to not be a Castro family member since Osvaldo Dorticós Torrado in 1976 and the first leader of the government who is not a Castro since José Miró Cardona in 1959.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Osvaldo Dorticós"
+                  "page": "Osvaldo Dorticós Torrado"
                 },
                 {
                   "type": "internal",
@@ -139,16 +139,16 @@
           "template": "short description"
         },
         {
-          "date": "January 2021",
-          "template": "use dmy dates"
-        },
-        {
           "list": [
             "Díaz-Canel",
             "Bermúdez"
           ],
           "lang": "Spanish",
           "template": "family name hatnote"
+        },
+        {
+          "date": "September 2022",
+          "template": "use dmy dates"
         },
         {
           "year": "1960",

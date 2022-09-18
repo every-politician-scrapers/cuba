@@ -1,7 +1,17 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
-Q1370482,President of Cuba,Q241,Q241,Q21071159,,1902,,,,President of Cuba
-Q21071159,Vice-President of Cuba,Q241,Q241,,,1976-12-02,,,,Vice President of Cuba
-Q6502015,Prime Minister of Cuba,Q241,Q241,,Q375886,1940-10-10,,,,Prime Minister of Cuba
+Q109180051,,Q1006,Q1006,,,,,,,
+Q112235398,,,,,,,,,,
+Q106034397,Ambassador of Cuba to Angola,Q241,,,,,,,,
+Q113662078,Governor of Havana Province,,Q12588,,,2020-01,,Q106465348,,
+Q21272829,Member of the National Assembly of Cuba,Q241,Q241,,,,,,,
 Q4294907,Minister of Foreign Affairs of Cuba,Q241,Q241,,Q16188326,,,,,Minister of Foreign Affairs (Cuba)
 Q99883982,Minister of Industry of Cuba,Q241,Q241,,,,,,,
+Q1370482,President of Cuba,Q241,Q241,Q21071159,,1902,,,,President of Cuba
 Q99880254,President of the National Assembly of People's Power,Q241,Q241,,Q11812611,,,,,
+Q6502015,Prime Minister of Cuba,Q241,Q241,,Q375886,1940-10-10,,,,Prime Minister of Cuba
+Q21071159,Vice-President of Cuba,Q241,Q241,,,1976-12-02,,,,Vice President of Cuba
+Q104214569,ambassador of Cuba to France,Q241,,,Q104214582,,,,,
+Q66421797,ambassador of Cuba to Hungary,Q241,,,,,,,,
+Q30158520,ambassador of Cuba to Uruguay,Q241,,,,,,,,
+Q105156631,ambassador of Cuba to the United States of America,Q241,,,,,,,,
+Q106465348,mayor of Havana,Q241,Q1563,,,,2020-01,,Q113662078,

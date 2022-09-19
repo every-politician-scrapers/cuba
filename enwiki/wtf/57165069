@@ -88,9 +88,10 @@
             "text": "Visita oficial a Namibia del Vicepresidente cubano Salvador Valdés Mesa.jpg"
           },
           "office": {
-            "text": "Vice President of Cuba",
+            "text": "16th Vice President of Cuba",
             "links": [
               {
+                "text": "16th Vice President of Cuba",
                 "type": "internal",
                 "page": "Vice President of Cuba"
               }
@@ -220,10 +221,10 @@
             "text": "June 13, 1945"
           },
           "birth_place": {
-            "text": "Amancio Rodríguez, Cuba",
+            "text": "Amancio, Las Tunas, Cuba",
             "links": [
               {
-                "text": "Amancio Rodríguez",
+                "text": "Amancio, Las Tunas",
                 "type": "internal",
                 "page": "Amancio, Cuba"
               },

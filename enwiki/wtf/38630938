@@ -25,12 +25,12 @@
         {
           "sentences": [
             {
-              "text": "Miguel Mario Díaz-Canel Bermúdez (born 20 April 1960) is a Cuban politician serving as the president of Cuba since 2019 and as the first secretary of the Communist Party since 2021.",
+              "text": "Miguel Mario Díaz-Canel Bermúdez (born 20 April 1960) is the 25th and current president of Cuba, serving since 2019, as well as the first secretary of the Communist Party of Cuba since 2021.",
               "links": [
                 {
-                  "text": "Cuban",
+                  "text": "25th and current",
                   "type": "internal",
-                  "page": "Cuba"
+                  "page": "List of Presidents of Cuba"
                 },
                 {
                   "text": "president of Cuba",
@@ -38,9 +38,13 @@
                   "page": "president of Cuba"
                 },
                 {
-                  "text": "first secretary of the Communist Party",
+                  "text": "first secretary",
                   "type": "internal",
                   "page": "First Secretary of the Communist Party of Cuba"
+                },
+                {
+                  "type": "internal",
+                  "page": "Communist Party of Cuba"
                 }
               ],
               "formatting": {
@@ -48,33 +52,35 @@
                   "Miguel Mario Díaz-Canel Bermúdez"
                 ]
               }
+            },
+            {
+              "text": "In both these roles Díaz-Canel succeeds the brothers Fidel and Raúl Castro, making him the first non-Castro leader of Cuba since the revolution.",
+              "links": [
+                {
+                  "text": "Fidel",
+                  "type": "internal",
+                  "page": "Fidel Castro"
+                },
+                {
+                  "type": "internal",
+                  "page": "Raúl Castro"
+                },
+                {
+                  "text": "revolution",
+                  "type": "internal",
+                  "page": "Cuban revolution"
+                }
+              ]
+            },
+            {
+              "text": "Díaz-Canel's leadership thus represents a non-dynastic form of succession for the party as well as for the state, and the end of Castro leadership in Cuba."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "He was previously President of the Council of State of Cuba from 2018 to 2019 and First Vice President from 2013 to 2018.",
-              "links": [
-                {
-                  "text": "President",
-                  "type": "internal",
-                  "page": "List of Presidents of Cuba"
-                },
-                {
-                  "text": "Council of State of Cuba",
-                  "type": "internal",
-                  "page": "Council of State (Cuba)"
-                },
-                {
-                  "text": "First Vice President",
-                  "type": "internal",
-                  "page": "Vice President of Cuba"
-                }
-              ]
-            },
-            {
-              "text": "He has been a member of the Politburo of the Communist Party since 2003, and he served as Minister of Higher Education from 2009 to 2012; he was promoted to the post of Vice President of the Council of Ministers (Deputy Prime Minister) in 2012.",
+              "text": "Díaz-Canel has been a member of the Politburo of the Communist Party since 2003, and served as Minister of Higher Education from 2009 to 2012.",
               "links": [
                 {
                   "text": "Politburo of the Communist Party",
@@ -84,51 +90,28 @@
               ]
             },
             {
-              "text": "A year later, on 24 February 2013, he was elected as First Vice President of the Council of State."
+              "text": "He was promoted to the post of Vice President of the Council of Ministers (Deputy Prime Minister) in 2012."
             },
             {
-              "text": "He was selected to succeed Raúl Castro as the candidate for President of the Council of State and the Council of Ministers on 18 April 2018 and was sworn into office the following day after the National Assembly voted for his nomination.",
+              "text": "A year later, in 2013, he was elected as First Vice President of the Council of State.",
               "links": [
                 {
+                  "text": "First Vice President",
                   "type": "internal",
-                  "page": "Raúl Castro"
-                }
-              ]
-            },
-            {
-              "text": "His two predecessors in the role were brothers, and Díaz-Canel's leadership represents a non-dynastic form of succession for the Communist Party as well as for the Republic of Cuba.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Republic of Cuba"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Díaz-Canel is the first president to not be a Castro family member since Osvaldo Dorticós Torrado in 1976 and the first leader of the government who is not a Castro since José Miró Cardona in 1959.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Osvaldo Dorticós Torrado"
+                  "page": "Vice President of Cuba"
                 },
                 {
+                  "text": "Council of State",
                   "type": "internal",
-                  "page": "José Miró Cardona"
+                  "page": "Council of State (Cuba)"
                 }
               ]
             },
             {
-              "text": "He succeeded Raúl Castro, brother of Fidel Castro, as the First Secretary of the Communist Party of Cuba on 19 April 2021, marking the end of Castro leadership in Cuba.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Fidel Castro"
-                }
-              ]
+              "text": "He succeeded Raúl Castro as the President of the Council of State in 2018; in December 2019 the office would evolve into President of the Republic."
+            },
+            {
+              "text": "On 19 April 2021 Díaz-Canel assumed the reins of the Communist Party of Cuba as well, when he replaced Raúl Castro as First Secretary."
             }
           ]
         }
@@ -402,10 +385,6 @@
               {
                 "type": "internal",
                 "page": "Placetas"
-              },
-              {
-                "type": "internal",
-                "page": "Cuba"
               }
             ]
           },
@@ -437,36 +416,7 @@
           },
           "signature": {
             "text": "Miguel Díaz-Canel signature.svg"
-          },
-          "nationality": {
-            "text": "Cuban",
-            "links": [
-              {
-                "text": "Cuban",
-                "type": "internal",
-                "page": "Cuba"
-              }
-            ]
           }
-        }
-      ],
-      "references": [
-        {
-          "url": "http://www.cubadebate.cu/noticias/2013/02/24/ratificado-raul-como-presidente-del-consejo-de-estado/",
-          "title": "Ratificado Raúl como presidente del Consejo de Estado y del Consejo de Ministros (+ Fotos)",
-          "work": "Cubadebate",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "via": "Reuters",
-          "date": "10 April 2020",
-          "title": "End of the Castro era: Diaz-Canel becomes Cuban Communist Party chief",
-          "url": "https://www.straitstimes.com/world/end-of-the-castro-era-diaz-canel-becomes-cuban-communist-party-chief",
-          "accessdate": "21 April 2021",
-          "work": "The Straits Times",
-          "template": "citation",
-          "type": "news"
         }
       ]
     },
@@ -510,10 +460,6 @@
                 {
                   "type": "internal",
                   "page": "Castropol, Asturias"
-                },
-                {
-                  "type": "internal",
-                  "page": "Spain"
                 }
               ]
             }
@@ -772,11 +718,6 @@
                   "page": "Council of State (Cuba)"
                 },
                 {
-                  "text": "President",
-                  "type": "internal",
-                  "page": "President of Cuba"
-                },
-                {
                   "type": "internal",
                   "page": "Raúl Castro"
                 }
@@ -931,11 +872,6 @@
             {
               "text": "Diaz-Canel's reforms among other things, limited the presidency to two consecutive five-year terms and banned discrimination based on disability, gender, gender identity, race or sexual orientation.",
               "links": [
-                {
-                  "text": "discrimination",
-                  "type": "internal",
-                  "page": "discrimination"
-                },
                 {
                   "text": "disability",
                   "type": "internal",
@@ -1181,10 +1117,6 @@
                   "text": "🇿🇦",
                   "type": "internal",
                   "page": "south africa"
-                },
-                {
-                  "type": "internal",
-                  "page": "South Africa"
                 }
               ]
             },

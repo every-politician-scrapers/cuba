@@ -1,0 +1,18 @@
+{
+    "jurisdiction": {
+        "name": "Cuba",
+        "id": "Q241"
+    },
+    "cabinet": {
+      "id":     "Q113661750",
+      "start":  "2019-12-21",
+      "parent": "Q834304"
+    },
+    "reference": {
+        "P4656": "https://en.wikipedia.org/wiki/Council_of_Ministers_(Cuba)"
+    },
+    "current_only": "true",
+    "person_description": {
+        "en": "Cuban politician"
+    }
+}

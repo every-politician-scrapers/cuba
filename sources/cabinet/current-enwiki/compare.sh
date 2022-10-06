@@ -8,6 +8,6 @@ bundle exec ruby scraper.rb $(jq -r .reference.P4656 meta.json) |
 
 wd sparql -f csv wikidata.js | sed -e 's/T00:00:00Z//g' -e 's#http://www.wikidata.org/entity/##g' | qsv dedup -s psid > wikidata.csv
 
-bundle exec ruby diff.rb | qsv sort -s positionLabel | tee diff.csv
+bundle exec ruby diff.rb | qsv sort -s positionlabel | tee diff.csv
 
 cd ~-

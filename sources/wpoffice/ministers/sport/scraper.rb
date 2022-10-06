@@ -9,7 +9,7 @@ class OfficeholderList < OfficeholderListBase
   decorator WikidataIdsDecorator::Links
 
   def holder_entries
-    noko.xpath("//h2[.//span[contains(.,'Instituto Nacional de Deportes')]][1]//following-sibling::ul[1]//li")
+    noko.xpath("//h2[.//span[contains(.,'Presidentes')]][1]//following-sibling::ul[1]//li")
   end
 
   class Officeholder < OfficeholderNonTableBase
@@ -18,11 +18,11 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def itemLabel
-      name_link ? name_link.text.tidy : noko.text.split(/\d/).last.tidy
+      name_link ? name_link.text.tidy : noko.text.split('(').first.tidy
     end
 
     def raw_combo_date
-      noko.text.gsub(itemLabel, '').gsub(/^ab /, 'seit ').gsub(/seit (.*?) /, '\1 - ').tidy
+      noko.text.scan(/\((.*?)\)/).flatten.last
     end
 
     private

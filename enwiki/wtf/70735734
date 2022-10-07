@@ -1,0 +1,155 @@
+{
+  "title": "Juan Carlos García Granda",
+  "pageID": 70735734,
+  "categories": [
+    "Cuban politicians",
+    "Tourism ministers of Cuba",
+    "Government ministers of Cuba",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Juan Carlos García Granda is a Cuban politician currently serving as the Minister of Tourism of Cuba.",
+              "links": [
+                {
+                  "text": "Minister of Tourism",
+                  "type": "internal",
+                  "page": "Minister of Tourism (Cuba)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cuba"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Juan Carlos García Granda"
+                ]
+              }
+            },
+            {
+              "text": "He served as first deputy minister under former Minister of Tourism Manuel Marrero Cruz until Cruz's appointment to the office of Prime Minister in December 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Manuel Marrero Cruz"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Cuba"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cuban politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "last": "Mata",
+          "first": "Alejandro",
+          "date": "2019-12-21",
+          "title": "Cuba elige a Manuel Marrero como primer ministro, cargo suprimido hace 43 años",
+          "url": "https://www.elconfidencial.com/mundo/2019-12-21/cuba-vuelve-tener-primer-ministro-despues-43-anos_2387255/",
+          "access-date": "2022-05-08",
+          "website": "elconfidencial.com",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2019-12-21",
+          "title": "Designan Gobierno de la República de Cuba: Primer Ministro, Viceprimeros ministros, y demás miembros del Consejo de Ministros",
+          "url": "https://misiones.cubaminrex.cu/es/articulo/designan-gobierno-de-la-republica-de-cuba-primer-ministro-viceprimeros-ministros-y-demas-4",
+          "access-date": "2022-05-08",
+          "website": "Embajadas y Consulados de Cuba",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "García has advocated for the construction of additional \"emblematic\" luxury hotels in the country."
+            },
+            {
+              "text": "In November 2019, he inaugurated the Paseo del Prado Hotel in Havana in the company of the former First Secretary of the Communist Party of Cuba, Raúl Castro, and the former President of Cuba, Miguel Díaz-Canel.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Paseo del Prado Hotel"
+                },
+                {
+                  "type": "internal",
+                  "page": "Havana"
+                },
+                {
+                  "type": "internal",
+                  "page": "First Secretary of the Communist Party of Cuba"
+                },
+                {
+                  "type": "internal",
+                  "page": "Raúl Castro"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of Cuba"
+                },
+                {
+                  "type": "internal",
+                  "page": "Miguel Díaz-Canel"
+                }
+              ]
+            },
+            {
+              "text": "He has also advocated for the strengthening of bilateral ties with Canada, which ranks first among the issuers of visitors."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2019-12-22",
+          "title": "Juan Carlos García Granda, nuevo ministro de Turismo de Cuba",
+          "url": "https://www.reportur.com/cuba/2019/12/22/juan-carlos-garcia-granda-nuevo-ministro-turismo-cuba/",
+          "access-date": "2022-05-08",
+          "website": "Noticias de turismo REPORTUR",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "cuba-politician-stub"
+        },
+        {
+          "template": "tourism-stub"
+        }
+      ]
+    }
+  ]
+}

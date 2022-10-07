@@ -1,0 +1,204 @@
+{
+  "title": "Meisi Bolaños",
+  "pageID": 71568747,
+  "categories": [
+    "1970 births",
+    "Living people",
+    "Cuban economists",
+    "Finance ministers of Cuba",
+    "Communist Party of Cuba politicians",
+    "Members of the National Assembly of People's Power",
+    "Women government ministers of Cuba",
+    "Female finance ministers",
+    "University of Havana alumni",
+    "21st-century Cuban women politicians",
+    "21st-century Cuban politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Meisi Bolaños Weiss (born May 1970 ) is a Cuban politician and has been the Cuban Minister of Finances and Prices since 2019.",
+              "links": [
+                {
+                  "text": "Minister of Finances and Prices",
+                  "type": "internal",
+                  "page": "Ministry of Finance and Prices (Cuba)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Meisi Bolaños Weiss"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cuban politician",
+          "template": "short description"
+        },
+        {
+          "template": "date",
+          "data": {
+            "df": "yes",
+            "year": "1970",
+            "month": "5",
+            "date": "27",
+            "template": "birth date",
+            "text": "May 27, 1970"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Meisi Bolaños Weiss"
+          },
+          "order": {
+            "text": "Cuban Minister of Finances and Prices",
+            "links": [
+              {
+                "text": "Cuban Minister of Finances and Prices",
+                "type": "internal",
+                "page": "Ministry of Finance and Prices (Cuba)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 January 2019"
+          },
+          "predecessor": {
+            "text": "Lina Olinda Pedraza Rodríguez",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lina Olinda Pedraza Rodríguez"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "May 27, 1970"
+          },
+          "party": {
+            "text": "Communist Party of Cuba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Party of Cuba"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Havana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Havana"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Group of 30 :: Resources",
+          "url": "https://group30.org/resources/P25",
+          "website": "group30.org",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Meisi Bolaños Weiss",
+          "url": "https://www.parlamentocubano.gob.cu/index.php/meisi-bolanos-weiss",
+          "website": "Asamblea Nacional del Poder Popular",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "She has a law degree."
+            },
+            {
+              "text": "She graduated from the University of Havana in 1993 and also studied the financial administration.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Havana"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was legal director of the Ministry of Finances and Prices from 2005 to April 2007.",
+              "links": [
+                {
+                  "text": "Ministry of Finances and Prices",
+                  "type": "internal",
+                  "page": "Ministry of Finance and Prices (Cuba)"
+                }
+              ]
+            },
+            {
+              "text": "She was appointed deputy minister of finance and prices from April 2007 to 2019."
+            },
+            {
+              "text": "On 8 January 2019, she was appointed Minister of Finances and Prices, and was recently worked with price stability.",
+              "links": [
+                {
+                  "text": "Minister of Finances and Prices",
+                  "type": "internal",
+                  "page": "Ministry of Finance and Prices (Cuba)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "La ministra de Finanzas y Precios llama 'parásitos' a quienes incrementen los precios en Cuba {{!}} DIARIO DE CUBA",
+          "url": "https://diariodecuba.com/cuba/1608385870_27394.html",
+          "website": "diariodecuba.com",
+          "language": "es",
+          "date": "21 December 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Designa Consejo de Estado a nuevos ministros de Transporte y Finanzas y Precios",
+          "url": "http://www.cubadebate.cu/noticias/2019/01/08/consejo-de-estado-designa-nuevos-ministros-en-cuba/",
+          "access-date": "8 January 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

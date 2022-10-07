@@ -1,0 +1,83 @@
+{
+  "title": "José Amado Ricardo Guerra",
+  "pageID": 22120420,
+  "categories": [
+    "Government ministers of Cuba",
+    "Living people",
+    "Communist Party of Cuba politicians",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "José Amado Ricardo Guerra is the Secretary of Council of Ministers in Cuba.",
+              "links": [
+                {
+                  "text": "Council of Ministers",
+                  "type": "internal",
+                  "page": "Cabinet of Cuba "
+                },
+                {
+                  "type": "internal",
+                  "page": "Cuba"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "José Amado Ricardo Guerra"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed as part of the 2009 shake-up by Raúl Castro.",
+              "links": [
+                {
+                  "text": "2009 shake-up",
+                  "type": "internal",
+                  "page": "2009 Cuban government dismissals"
+                },
+                {
+                  "type": "internal",
+                  "page": "Raúl Castro"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "June 2022",
+          "template": "one source"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://news.yahoo.com/s/ap/20090302/ap_on_re_la_am_ca/cb_cuba_shakeup_glance_1",
+          "title": "Who's in and who's out in Cuba government shakeup",
+          "publisher": "Yahoo / Associated Press}}{{dead link|date=March 2022|undefined",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "cuba-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -73,7 +73,14 @@
               ]
             },
             {
-              "text": "Díaz-Canel's leadership thus represents a non-dynastic form of succession for the party as well as for the state, and the end of Castro leadership in Cuba."
+              "text": "Díaz-Canel's leadership thus represents a non-dynastic form of succession for the party as well as for the state, and the end of Castro leadership in Cuba.",
+              "links": [
+                {
+                  "text": "dynastic",
+                  "type": "internal",
+                  "page": "Political family"
+                }
+              ]
             }
           ]
         },

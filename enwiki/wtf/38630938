@@ -25,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Miguel Mario Díaz-Canel Bermúdez (born 20 April 1960) is the 25th and current president of Cuba, serving since 2019, as well as the First Secretary of the Communist Party of Cuba since 2021.",
+              "text": "Miguel Mario Díaz-Canel y Bermúdez (born 20 April 1960) is the 25th and current president of Cuba, serving since 2019, as well as the First Secretary of the Communist Party of Cuba since 2021.",
               "links": [
                 {
                   "text": "25th and current",
@@ -49,7 +49,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Miguel Mario Díaz-Canel Bermúdez"
+                  "Miguel Mario Díaz-Canel y Bermúdez"
                 ]
               }
             },
@@ -141,18 +141,6 @@
           "template": "use dmy dates"
         },
         {
-          "year": "1960",
-          "month": "4",
-          "day": "20",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "abbr": "div.",
-          "meaning": "divorced",
-          "template": "abbr"
-        },
-        {
           "transcription": "mi.ˈɣel ˈdi.as ka.ˈnel",
           "template": "ipa"
         }
@@ -160,242 +148,69 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Miguel Díaz-Canel"
-          },
-          "image": {
-            "text": "Miguel Díaz-Canel 2019.jpg"
-          },
-          "caption": {
-            "text": "Díaz-Canel in 2019"
-          },
-          "office1": {
-            "text": "First Secretary of the Communist Party of Cuba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "First Secretary of the Communist Party of Cuba"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "19 April 2021"
-          },
-          "predecessor1": {
-            "text": "Raúl Castro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Raúl Castro"
-              }
-            ]
-          },
-          "office2": {
-            "text": "25th President of Cuba",
-            "links": [
-              {
-                "text": "25th President of Cuba",
-                "type": "internal",
-                "page": "President of Cuba"
-              }
-            ]
-          },
-          "vicepresident2": {
-            "text": "Salvador Valdés Mesa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Salvador Valdés Mesa"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Manuel Marrero",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Manuel Marrero"
-              }
-            ]
-          },
-          "1blankname2": {
-            "text": "Party Leader"
-          },
-          "1namedata2": {
-            "text": "Raúl Castro (2019–2021)\nHimself (2021–present)"
-          },
-          "term_start2": {
-            "text": "10 October 2019"
-          },
-          "predecessor2": {
-            "text": "Himself (President of the Council of State)"
-          },
-          "office3": {
-            "text": "President of the Council of State",
-            "links": [
-              {
-                "text": "President",
-                "type": "internal",
-                "page": "List of heads of state of Cuba"
-              },
-              {
-                "text": "Council of State",
-                "type": "internal",
-                "page": "Council of State (Cuba)"
-              }
-            ]
-          },
-          "vicepresident3": {
-            "text": "Salvador Valdés Mesa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Salvador Valdés Mesa"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "19 April 2018"
-          },
-          "term_end3": {
-            "text": "10 October 2019"
-          },
-          "predecessor3": {
-            "text": "Raúl Castro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Raúl Castro"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Esteban Lazo Hernández",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Esteban Lazo Hernández"
-              }
-            ]
-          },
-          "office4": {
-            "text": "President of the Council of Ministers",
-            "links": [
-              {
-                "text": "President",
-                "type": "internal",
-                "page": "List of heads of government of Cuba"
-              },
-              {
-                "text": "Council of Ministers",
-                "type": "internal",
-                "page": "Council of Ministers (Cuba)"
-              }
-            ]
-          },
-          "president4": {
-            "text": "Himself"
-          },
-          "term_start4": {
-            "text": "19 April 2018"
-          },
-          "term_end4": {
-            "text": "21 December 2019"
-          },
-          "predecessor4": {
-            "text": "Raúl Castro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Raúl Castro"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Manuel Marrero (Prime Minister)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Manuel Marrero"
-              }
-            ]
-          },
-          "office5": {
-            "text": "First Vice President of the Council of State",
-            "links": [
-              {
-                "text": "First Vice President",
-                "type": "internal",
-                "page": "Vice President of Cuba"
-              },
-              {
-                "text": "Council of State",
-                "type": "internal",
-                "page": "Council of State (Cuba)"
-              }
-            ]
-          },
-          "president5": {
-            "text": "Raúl Castro"
-          },
-          "term_start5": {
-            "text": "24 February 2013"
-          },
-          "term_end5": {
-            "text": "19 April 2018"
-          },
-          "predecessor5": {
-            "text": "José Ramón Machado",
-            "links": [
-              {
-                "text": "José Ramón Machado",
-                "type": "internal",
-                "page": "José Ramón Machado Ventura"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Salvador Valdés Mesa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Salvador Valdés Mesa"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Minister of Higher Education"
-          },
-          "president6": {
-            "text": "Raúl Castro"
-          },
-          "term_start6": {
-            "text": "8 May 2009"
-          },
-          "term_end6": {
-            "text": "21 March 2012"
-          },
-          "predecessor6": {
-            "text": "Juan Vela Valdés"
-          },
-          "successor6": {
-            "text": "Rodolfo Alarcón Ortiz"
-          },
-          "birth_name": {
-            "text": "Miguel Mario Díaz-Canel Bermúdez"
+            "text": "Miguel Díaz Canel y Bermúdez"
           },
           "birth_date": {
             "text": "April 20, 1960"
           },
+          "termstart": {
+            "text": "April 19, 2018"
+          },
           "birth_place": {
-            "text": "Placetas, Cuba",
+            "text": "Municipality of Placetas, Province of Las Villas, (Cuba)",
             "links": [
               {
+                "text": "Municipality of Placetas",
                 "type": "internal",
                 "page": "Placetas"
+              },
+              {
+                "type": "internal",
+                "page": "Cuba"
               }
             ]
           },
-          "party": {
+          "image": {
+            "text": "Miguel Diaz Canel.jpg"
+          },
+          "office": {
+            "text": "Bandera y Escudo de Cuba.gif 24th President of Cuba",
+            "links": [
+              {
+                "text": "President of Cuba",
+                "type": "internal",
+                "page": "List of Presidents of Cuba"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Education"
+          },
+          "termstart2": {
+            "text": "May 8, 2009"
+          },
+          "termend2": {
+            "text": "March 21, 2012"
+          },
+          "preceded2": {
+            "text": "Juan Vela Valdés",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juan Vela Valdés"
+              }
+            ]
+          },
+          "succeeded2": {
+            "text": "Rodoldo Alarcón Ortíz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rodoldo Alarcón Ortíz"
+              }
+            ]
+          },
+          "otherparty": {
             "text": "Communist Party of Cuba",
             "links": [
               {
@@ -405,24 +220,28 @@
             ]
           },
           "spouse": {
-            "text": "Marta Villanueva (div.)\nLis Cuesta Peraza"
+            "text": "Lis Cuesta",
+            "links": [
+              {
+                "text": "Lis Cuesta",
+                "type": "internal",
+                "page": "First Lady of Cuba"
+              }
+            ]
           },
           "children": {
             "text": "2",
             "number": 2
           },
-          "education": {
-            "text": "Marta Abreu University of Las Villas",
+          "alma_mater": {
+            "text": "University of Las Villas",
             "links": [
               {
-                "text": "Marta Abreu University of Las Villas",
+                "text": "University of Las Villas",
                 "type": "internal",
                 "page": "University \"Marta Abreu\" of Las Villas"
               }
             ]
-          },
-          "signature": {
-            "text": "Miguel Díaz-Canel signature.svg"
           }
         }
       ]

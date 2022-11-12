@@ -141,20 +141,63 @@
           "template": "use dmy dates"
         },
         {
+          "last": "yes",
+          "list": [
+            "Additional positions"
+          ],
+          "titlestyle": "border:1px dashed lightgrey;",
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "template": "collapsed infobox section end"
+        },
+        {
           "transcription": "mi.ˈɣel ˈdi.as ka.ˈnel",
           "template": "ipa"
         }
       ],
       "infoboxes": [
         {
+          "embed": {
+            "text": "yes"
+          },
+          "office3": {
+            "text": "Vice President of the Council of State and the Council of Ministers"
+          },
+          "termstart3": {
+            "text": "February 24, 2013"
+          },
+          "termend3": {
+            "text": "April 19, 2018"
+          },
+          "predecessor3": {
+            "text": "José Ramón Machado Ventura"
+          },
+          "successor3": {
+            "text": "Salvador Valdés Mesa"
+          },
+          "office4": {
+            "text": "Minister of Education"
+          },
+          "termstart4": {
+            "text": "May 8, 2009"
+          },
+          "termend4": {
+            "text": "March 21, 2012"
+          },
+          "preceded4": {
+            "text": "Juan Vela Valdés"
+          },
+          "succeeded4": {
+            "text": "Rodoldo Alarcón Ortíz"
+          }
+        },
+        {
           "name": {
             "text": "Miguel Díaz Canel y Bermúdez"
           },
           "birth_date": {
             "text": "April 20, 1960"
-          },
-          "termstart": {
-            "text": "April 19, 2018"
           },
           "birth_place": {
             "text": "Municipality of Placetas, Province of Las Villas, (Cuba)",
@@ -174,7 +217,40 @@
             "text": "Miguel Diaz Canel.jpg"
           },
           "office": {
-            "text": "Bandera y Escudo de Cuba.gif 24th President of Cuba",
+            "text": "First Secretary of the Communist Party of Cuba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "First Secretary of the Communist Party of Cuba"
+              }
+            ]
+          },
+          "president": {
+            "text": "Himself"
+          },
+          "primeminister": {
+            "text": "Manuel Marrero Cruz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Manuel Marrero Cruz"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "19 April 2021"
+          },
+          "predecessor": {
+            "text": "Raúl Castro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Raúl Castro"
+              }
+            ]
+          },
+          "office1": {
+            "text": "24th President of Cuba",
             "links": [
               {
                 "text": "President of Cuba",
@@ -183,32 +259,50 @@
               }
             ]
           },
+          "termstart1": {
+            "text": "October 10, 2019"
+          },
+          "vicepresident1": {
+            "text": "Salvador Valdés Mesa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Salvador Valdés Mesa"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Raúl Castro"
+          },
           "office2": {
-            "text": "Minister of Education"
+            "text": "President of the Council of State and the Council of Ministers",
+            "links": [
+              {
+                "text": "Council of State",
+                "type": "internal",
+                "page": "Council of State (Cuba)"
+              },
+              {
+                "text": "Council of Ministers",
+                "type": "internal",
+                "page": "Council of Ministers (Cuba)"
+              }
+            ]
+          },
+          "vicepresident2": {
+            "text": "Salvador Valdés Mesa"
           },
           "termstart2": {
-            "text": "May 8, 2009"
+            "text": "April 19, 2018"
           },
           "termend2": {
-            "text": "March 21, 2012"
+            "text": "October 10, 2019"
           },
-          "preceded2": {
-            "text": "Juan Vela Valdés",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Juan Vela Valdés"
-              }
-            ]
+          "predecessor2": {
+            "text": "Raúl Castro"
           },
-          "succeeded2": {
-            "text": "Rodoldo Alarcón Ortíz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rodoldo Alarcón Ortíz"
-              }
-            ]
+          "successor2": {
+            "text": "Himself (as President of Cuba) Manuel Marrero Cruz (as Prime Minister of Cuba)"
           },
           "otherparty": {
             "text": "Communist Party of Cuba",
@@ -220,14 +314,7 @@
             ]
           },
           "spouse": {
-            "text": "Lis Cuesta",
-            "links": [
-              {
-                "text": "Lis Cuesta",
-                "type": "internal",
-                "page": "First Lady of Cuba"
-              }
-            ]
+            "text": "Lis Cuesta"
           },
           "children": {
             "text": "2",
@@ -485,6 +572,15 @@
                   "page": "Council of State (Cuba)"
                 }
               ]
+            },
+            {
+              "text": "As First Vice President of the Council of State, Díaz-Canel acted as deputy to the President, Raúl Castro.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Raúl Castro"
+                }
+              ]
             }
           ]
         }
@@ -535,20 +631,6 @@
       "paragraphs": [
         {
           "sentences": [
-            {
-              "text": "As First Vice President of the Council of State, Díaz-Canel acted as deputy to the President, Raúl Castro.",
-              "links": [
-                {
-                  "text": "Council of State",
-                  "type": "internal",
-                  "page": "Council of State (Cuba)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Raúl Castro"
-                }
-              ]
-            },
             {
               "text": "In 2018, the 86-year-old Castro stepped down from the presidency, though he retained the most powerful position of First Secretary of the Communist Party of Cuba and the commander-in-chief of the Cuban Revolutionary Armed Forces.",
               "links": [

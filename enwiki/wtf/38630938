@@ -25,8 +25,17 @@
         {
           "sentences": [
             {
-              "text": "Miguel Mario Díaz-Canel y Bermúdez (born 20 April 1960) is the 25th and current president of Cuba, serving since 2019, as well as the First Secretary of the Communist Party of Cuba since 2021.",
+              "text": "Miguel Mario Díaz-Canel y Bermúdez (born 20 April 1960) is the First Secretary of the Communist Party of Cuba, serving since 2021, as well as the 25th and current president of Cuba, serving since 2019.",
               "links": [
+                {
+                  "text": "First Secretary",
+                  "type": "internal",
+                  "page": "First Secretary of the Communist Party of Cuba"
+                },
+                {
+                  "type": "internal",
+                  "page": "Communist Party of Cuba"
+                },
                 {
                   "text": "25th and current",
                   "type": "internal",
@@ -36,15 +45,6 @@
                   "text": "president of Cuba",
                   "type": "internal",
                   "page": "president of Cuba"
-                },
-                {
-                  "text": "First Secretary",
-                  "type": "internal",
-                  "page": "First Secretary of the Communist Party of Cuba"
-                },
-                {
-                  "type": "internal",
-                  "page": "Communist Party of Cuba"
                 }
               ],
               "formatting": {

@@ -25,26 +25,30 @@
         {
           "sentences": [
             {
-              "text": "Miguel Mario Díaz-Canel y Bermúdez (born 20 April 1960) is the First Secretary of the Communist Party of Cuba, serving since 2021, as well as the 25th and current president of Cuba, serving since 2019.",
+              "text": "Miguel Mario Díaz-Canel y Bermúdez (born 20 April 1960) is an engineer and the current dictator of Cuba since 2019 (appointed by his predecessor Raúl Castro without people’s vote) Serving as the first secretary of the Communist Party of Cuba, serving since 2021.",
               "links": [
                 {
-                  "text": "First Secretary",
+                  "text": "engineer",
+                  "type": "internal",
+                  "page": "engineer"
+                },
+                {
+                  "text": "dictator of Cuba",
+                  "type": "internal",
+                  "page": "dictator of Cuba"
+                },
+                {
+                  "type": "internal",
+                  "page": "Raúl Castro"
+                },
+                {
+                  "text": "first secretary",
                   "type": "internal",
                   "page": "First Secretary of the Communist Party of Cuba"
                 },
                 {
                   "type": "internal",
                   "page": "Communist Party of Cuba"
-                },
-                {
-                  "text": "25th and current",
-                  "type": "internal",
-                  "page": "List of Presidents of Cuba"
-                },
-                {
-                  "text": "president of Cuba",
-                  "type": "internal",
-                  "page": "president of Cuba"
                 }
               ],
               "formatting": {
@@ -119,6 +123,15 @@
             },
             {
               "text": "On 19 April 2021 Díaz-Canel assumed the reins of the Communist Party of Cuba as well, when he replaced Raúl Castro as First Secretary."
+            },
+            {
+              "text": "On July 11th of 2021 he gave the combat order to the communists Cubans to fight against the opposition (see Movimiento San Isidro.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Movimiento San Isidro"
+                }
+              ]
             }
           ]
         }
@@ -152,7 +165,7 @@
           "template": "collapsed infobox section end"
         },
         {
-          "transcription": "mi.ˈɣel ˈdi.as ka.ˈnel",
+          "transcription": "mi.ˈɣel ˈdi.as ka.ˈka",
           "template": "ipa"
         }
       ],
@@ -250,12 +263,11 @@
             ]
           },
           "office1": {
-            "text": "24th President of Cuba",
+            "text": "President of Cuba",
             "links": [
               {
-                "text": "President of Cuba",
                 "type": "internal",
-                "page": "List of Presidents of Cuba"
+                "page": "President of Cuba"
               }
             ]
           },
@@ -768,13 +780,8 @@
               ]
             },
             {
-              "text": "Diaz-Canel's reforms among other things, limited the presidency to two consecutive five-year terms and banned discrimination based on disability, gender, gender identity, race or sexual orientation.",
+              "text": "Diaz-Canel's reforms among other things, limited the presidency to two consecutive five-year terms and banned discrimination based on gender, gender identity or sexual orientation.",
               "links": [
-                {
-                  "text": "disability",
-                  "type": "internal",
-                  "page": "Disability discrimination"
-                },
                 {
                   "text": "gender",
                   "type": "internal",
@@ -784,11 +791,6 @@
                   "text": "gender identity",
                   "type": "internal",
                   "page": "gender identity"
-                },
-                {
-                  "text": "race",
-                  "type": "internal",
-                  "page": "Race (human categorization)"
                 },
                 {
                   "text": "sexual orientation",
@@ -802,7 +804,7 @@
         {
           "sentences": [
             {
-              "text": "His administration has been controversial for its suppression of dissent, particularly surrounding the 11th of July protests triggered by the worsening of the COVID-19 pandemic, the government's decision to change the currency system and the general scarcity of basic necessities such as food or medicine.",
+              "text": "His administration has been controversial for its suppression of dissent, particularly surrounding the 11th of July protests triggered by the worsening of the COVID-19 pandemic, and his suggestion to combat the country's food crisis with pizza, guarapo and lemonade, the government's decision to change the currency system and the general scarcity of basic necessities such as food or medicine.",
               "links": [
                 {
                   "text": "11th of July protests",
@@ -812,6 +814,26 @@
                 {
                   "type": "internal",
                   "page": "COVID-19 pandemic"
+                },
+                {
+                  "text": "food crisis",
+                  "type": "internal",
+                  "page": "food crisis"
+                },
+                {
+                  "text": "pizza",
+                  "type": "internal",
+                  "page": "pizza"
+                },
+                {
+                  "text": "guarapo",
+                  "type": "internal",
+                  "page": "guarapo"
+                },
+                {
+                  "text": "lemonade",
+                  "type": "internal",
+                  "page": "lemonade"
                 },
                 {
                   "text": "currency system",
@@ -893,6 +915,12 @@
           "doi-access": "free",
           "template": "citation",
           "type": "journal"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "date": "2021-02-10",

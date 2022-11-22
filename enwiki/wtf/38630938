@@ -25,21 +25,12 @@
         {
           "sentences": [
             {
-              "text": "Miguel Mario Díaz-Canel y Bermúdez (born 20 April 1960) is an engineer and the current dictator of Cuba since 2019 (appointed by his predecessor Raúl Castro without people’s vote) Serving as the first secretary of the Communist Party of Cuba, serving since 2021.",
+              "text": "Miguel Mario Díaz-Canel y Bermúdez (born 20 April 1960) is a Cuban politician and engineer who has served as as the first secretary of the Communist Party of Cuba since 2021 as well as the president of Cuba since 2019.",
               "links": [
                 {
                   "text": "engineer",
                   "type": "internal",
                   "page": "engineer"
-                },
-                {
-                  "text": "dictator of Cuba",
-                  "type": "internal",
-                  "page": "dictator of Cuba"
-                },
-                {
-                  "type": "internal",
-                  "page": "Raúl Castro"
                 },
                 {
                   "text": "first secretary",
@@ -49,6 +40,11 @@
                 {
                   "type": "internal",
                   "page": "Communist Party of Cuba"
+                },
+                {
+                  "text": "president of Cuba",
+                  "type": "internal",
+                  "page": "president of Cuba"
                 }
               ],
               "formatting": {
@@ -125,7 +121,7 @@
               "text": "On 19 April 2021 Díaz-Canel assumed the reins of the Communist Party of Cuba as well, when he replaced Raúl Castro as First Secretary."
             },
             {
-              "text": "On July 11th of 2021 he gave the combat order to the communists Cubans to fight against the opposition (see Movimiento San Isidro.",
+              "text": "On 11 July 2021 he gave a combat order to Communist Cubans to fight against the opposition (Movimiento San Isidro).",
               "links": [
                 {
                   "type": "internal",
@@ -828,7 +824,7 @@
                 {
                   "text": "guarapo",
                   "type": "internal",
-                  "page": "guarapo"
+                  "page": "Guarapo (drink)"
                 },
                 {
                   "text": "lemonade",
@@ -917,10 +913,13 @@
           "type": "journal"
         },
         {
+          "date": "2020-05-26",
+          "title": "Miguel Díaz-Canel: “La limonada es la base de todo”",
+          "publisher": "Noticias Cubanet",
+          "url": "https://www.cubanet.org/noticias/miguel-diaz-canel-la-limonada-es-la-base-de-todo/amp/",
+          "language": "es",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "date": "2021-02-10",

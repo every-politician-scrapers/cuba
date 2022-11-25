@@ -1,32 +1,32 @@
-item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended
-Q114433591,Deputy Prime Minister of Cuba,,,Q241,Q241,,
-Q114433409,Minister of Agriculture of Cuba,Q98103700,Ministry of Agriculture of Cuba,,Q241,,
-Q114433410,Minister of Communications of Cuba,Q55272737,Ministry of Communications of Cuba,,Q241,,
-Q114433412,Minister of Construction of Cuba,Q98140852,Ministry of Construction of Cuba,,Q241,,
-Q114433414,Minister of Culture of Cuba,Q60826287,Ministry of Culture of Cuba,,Q241,,
-Q114433415,Minister of Domestic Trade of the Republic of Cuba,Q47262992,Ministry of Domestic Trade of the Republic of Cuba,,Q241,,
-Q114433416,Minister of Economy and Planning of Cuba,Q65173507,Ministry of Economy and Planning of Cuba,,Q241,,
-Q114436178,Minister of Education of Cuba,Q60826292,Ministry of Education of Cuba,,Q241,,
-Q114433417,Minister of Energy and Mines of Cuba,Q98103205,Ministry of Energy and Mines of Cuba,,Q241,,
-Q114433418,Minister of Finance and Prices of Cuba,Q98140782,Ministry of Finance and Prices of Cuba,,Q241,,
-Q114433419,Minister of Food of Cuba,Q98142536,Ministry of Food of Cuba,,Q241,,
-Q4294907,Minister of Foreign Affairs of Cuba,Q10330349,Ministry of Foreign Affairs,Q241,Q241,,
-Q114433422,Minister of Foreign Trade and Investment of Cuba,Q98141343,Ministry of Foreign Trade and Investment of Cuba,,Q241,,
-Q114433423,Minister of Higher Education of Cuba,Q65174229,Ministry of Higher Education of Cuba,,Q241,,
-Q99883982,Minister of Industry of Cuba,Q98142538,Ministry of Industry of Cuba,Q241,Q241,,
-Q114433424,Minister of Justice of Cuba,Q55648327,Ministry of Justice of Cuba,,Q241,,
-Q114433425,Minister of Labour and Social Affairs of Cuba,Q98102573,Ministry of Labour and Social Affairs of Cuba,,Q241,,
-Q114433431,Minister of Public Health,Q6017421,Ministry of Public Health,,Q241,,
-Q114433450,"Minister of Science, Technology and the Environment of Cuba",Q6017198,"Ministry of Science, Technology and the Environment of Cuba",,Q241,,
-Q114433452,Minister of Sugar,Q28502262,Ministry of Sugar,,Q241,,
-Q114433455,Minister of Tourism of Cuba,Q98124078,Ministry of Tourism of Cuba,,Q241,,
-Q114433456,Minister of Transport of Cuba,Q98101489,Ministry of Transport of Cuba,,Q241,,
-Q114433457,Minister of the Interior,Q3858481,Ministry of the Interior,,Q241,,
-Q114433474,Minister of the Revolutionary Armed Forces,Q56274945,Ministry of the Revolutionary Armed Forces,,Q241,,
-Q1370482,President of Cuba,,,Q241,Q241,1902,
-Q114436623,President of the Central Bank of Cuba,Q2607787,Central Bank of Cuba,Q241,,,
-Q114436682,President of the Cuban Institute of Radio and Television,Q597600,Cuban Institute of Radio and Television,,Q241,,
-Q114436666,"President of the National Institute of Sports, Physical Education and Recreation of Cuba",Q99897756,"National Institute of Sports, Physical Education and Recreation of Cuba",,Q241,,
-Q6502015,Prime Minister of Cuba,,,Q241,Q241,1940,
-Q114437451,Secretary of the Council of Ministers,,,Q241,Q241,,
-Q21071159,Vice-President of Cuba,,,Q241,Q241,1976,
+item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended,holders
+Q114433591,Deputy Prime Minister of Cuba,,,Q241,Q241,,,19
+Q114433409,Minister of Agriculture of Cuba,Q98103700,Ministry of Agriculture of Cuba,,Q241,,,5
+Q114433410,Minister of Communications of Cuba,Q55272737,Ministry of Communications of Cuba,,Q241,,,7
+Q114433412,Minister of Construction of Cuba,Q98140852,Ministry of Construction of Cuba,,Q241,,,3
+Q114433414,Minister of Culture of Cuba,Q60826287,Ministry of Culture of Cuba,,Q241,,,5
+Q114433415,Minister of Domestic Trade of the Republic of Cuba,Q47262992,Ministry of Domestic Trade of the Republic of Cuba,,Q241,,,5
+Q114433416,Minister of Economy and Planning of Cuba,Q65173507,Ministry of Economy and Planning of Cuba,,Q241,,,5
+Q114436178,Minister of Education of Cuba,Q60826292,Ministry of Education of Cuba,,Q241,,,2
+Q114433417,Minister of Energy and Mines of Cuba,Q98103205,Ministry of Energy and Mines of Cuba,,Q241,,,2
+Q114433418,Minister of Finance and Prices of Cuba,Q98140782,Ministry of Finance and Prices of Cuba,,Q241,,,4
+Q114433419,Minister of Food of Cuba,Q98142536,Ministry of Food of Cuba,,Q241,,,3
+Q4294907,Minister of Foreign Affairs of Cuba,Q10330349,Ministry of Foreign Affairs,Q241,Q241,,,18
+Q114433422,Minister of Foreign Trade and Investment of Cuba,Q98141343,Ministry of Foreign Trade and Investment of Cuba,,Q241,,,3
+Q114433423,Minister of Higher Education of Cuba,Q65174229,Ministry of Higher Education of Cuba,,Q241,,,5
+Q99883982,Minister of Industry of Cuba,Q98142538,Ministry of Industry of Cuba,Q241,Q241,,,3
+Q114433424,Minister of Justice of Cuba,Q55648327,Ministry of Justice of Cuba,,Q241,,,3
+Q114433425,Minister of Labour and Social Affairs of Cuba,Q98102573,Ministry of Labour and Social Affairs of Cuba,,Q241,,,3
+Q114433431,Minister of Public Health,Q6017421,Ministry of Public Health,,Q241,,,5
+Q114433450,"Minister of Science, Technology and the Environment of Cuba",Q6017198,"Ministry of Science, Technology and the Environment of Cuba",,Q241,,,4
+Q114433452,Minister of Sugar,Q28502262,Ministry of Sugar,,Q241,,,3
+Q114433455,Minister of Tourism of Cuba,Q98124078,Ministry of Tourism of Cuba,,Q241,,,3
+Q114433456,Minister of Transport of Cuba,Q98101489,Ministry of Transport of Cuba,,Q241,,,6
+Q114433457,Minister of the Interior,Q3858481,Ministry of the Interior,,Q241,,,4
+Q114433474,Minister of the Revolutionary Armed Forces,Q56274945,Ministry of the Revolutionary Armed Forces,,Q241,,,4
+Q1370482,President of Cuba,,,Q241,Q241,1902,,30
+Q114436623,President of the Central Bank of Cuba,Q2607787,Central Bank of Cuba,Q241,,,,4
+Q114436682,President of the Cuban Institute of Radio and Television,Q597600,Cuban Institute of Radio and Television,,Q241,,,2
+Q114436666,"President of the National Institute of Sports, Physical Education and Recreation of Cuba",Q99897756,"National Institute of Sports, Physical Education and Recreation of Cuba",,Q241,,,4
+Q6502015,Prime Minister of Cuba,,,Q241,Q241,1940,,14
+Q114437451,Secretary of the Council of Ministers,,,Q241,Q241,,,1
+Q21071159,Vice-President of Cuba,,,Q241,Q241,1976,,5

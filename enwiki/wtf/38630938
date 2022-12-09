@@ -161,28 +161,46 @@
           "template": "collapsed infobox section end"
         },
         {
-          "template": "infobox",
-          "type": "officeholder",
-          "data": {
-            "embed": {},
-            "office3": {},
-            "termstart3": {},
-            "termend3": {},
-            "predecessor3": {},
-            "successor3": {},
-            "office4": {},
-            "termstart4": {},
-            "termend4": {},
-            "preceded4": {},
-            "succeeded4": {}
-          }
-        },
-        {
           "transcription": "mi.ˈɣel ˈdi.as kaˈnel",
           "template": "ipa"
         }
       ],
       "infoboxes": [
+        {
+          "embed": {
+            "text": "yes"
+          },
+          "office3": {
+            "text": "Vice President of the Council of State and the Council of Ministers"
+          },
+          "termstart3": {
+            "text": "February 24, 2013"
+          },
+          "termend3": {
+            "text": "April 19, 2018"
+          },
+          "predecessor3": {
+            "text": "José Ramón Machado Ventura"
+          },
+          "successor3": {
+            "text": "Salvador Valdés Mesa"
+          },
+          "office4": {
+            "text": "Minister of Education"
+          },
+          "termstart4": {
+            "text": "May 8, 2009"
+          },
+          "termend4": {
+            "text": "March 21, 2012"
+          },
+          "preceded4": {
+            "text": "Juan Vela Valdés"
+          },
+          "succeeded4": {
+            "text": "Rodoldo Alarcón Ortíz"
+          }
+        },
         {
           "name": {
             "text": "Miguel Díaz Canel y Bermúdez"

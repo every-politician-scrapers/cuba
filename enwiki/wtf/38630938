@@ -25,8 +25,13 @@
         {
           "sentences": [
             {
-              "text": "Miguel Mario Díaz-Canel y Bermúdez (born 20 April 1960) is a Cuban politician and engineer who has served as the first secretary of the Communist Party of Cuba since 2021 as well as the president of Cuba since 2019.",
+              "text": "Miguel Mario Díaz-Canel y Bermúdez (born 20 April 1960) also known as MADCB, is a politician and engineer who is the third first secretary of the Communist Party of Cuba.",
               "links": [
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
                 {
                   "text": "engineer",
                   "type": "internal",
@@ -40,11 +45,6 @@
                 {
                   "type": "internal",
                   "page": "Communist Party of Cuba"
-                },
-                {
-                  "text": "president of Cuba",
-                  "type": "internal",
-                  "page": "president of Cuba"
                 }
               ],
               "formatting": {
@@ -54,7 +54,7 @@
               }
             },
             {
-              "text": "In both these roles Díaz-Canel succeeds the brothers Fidel and Raúl Castro, making him the first non-Castro leader of Cuba since the revolution.",
+              "text": "Díaz-Canel succeeds the brothers Fidel and Raúl Castro, making him the first non-Castro leader of Cuba since the revolution.",
               "links": [
                 {
                   "text": "Fidel",
@@ -148,6 +148,13 @@
         {
           "date": "September 2022",
           "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1960",
+          "month": "4",
+          "day": "20",
+          "template": "birth date and age"
         },
         {
           "last": "yes",

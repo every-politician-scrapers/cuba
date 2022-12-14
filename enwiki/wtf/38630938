@@ -146,6 +146,10 @@
           "template": "family name hatnote"
         },
         {
+          "small": "yes",
+          "template": "pp-semi-blp"
+        },
+        {
           "date": "September 2022",
           "template": "use dmy dates"
         },

@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Meisi Bolaños Weiss (born May 1970 ) is a Cuban politician and has been the Cuban Minister of Finances and Prices since 2019.",
+              "text": "Meisi Bolaños Weiss (born 27 May 1970) is a Cuban politician and has been the Cuban Minister of Finances and Prices since 2019.",
               "links": [
                 {
                   "text": "Minister of Finances and Prices",
@@ -45,15 +45,11 @@
           "template": "short description"
         },
         {
-          "template": "date",
-          "data": {
-            "df": "yes",
-            "year": "1970",
-            "month": "5",
-            "date": "27",
-            "template": "birth date",
-            "text": "May 27, 1970"
-          }
+          "df": "yes",
+          "year": "1970",
+          "month": "5",
+          "day": "27",
+          "template": "birth date and age"
         }
       ],
       "infoboxes": [

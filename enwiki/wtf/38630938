@@ -25,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Miguel Mario Díaz-Canel y Bermúdez (born 20 April 1960) also known as MADCB, is a politician and engineer who is the third first secretary of the Communist Party of Cuba.",
+              "text": "Miguel Mario Díaz-Canel y Bermúdez (born 20 April 1960) is a politician and engineer who is the third first secretary of the Communist Party of Cuba.",
               "links": [
                 {
                   "text": "politician",
@@ -119,15 +119,6 @@
             },
             {
               "text": "On 19 April 2021 Díaz-Canel assumed the reins of the Communist Party of Cuba as well, when he replaced Raúl Castro as First Secretary."
-            },
-            {
-              "text": "On 11 July 2021 he gave a combat order to Communist Cubans to fight against the opposition (Movimiento San Isidro).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Movimiento San Isidro"
-                }
-              ]
             }
           ]
         }

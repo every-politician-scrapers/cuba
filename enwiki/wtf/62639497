@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Manuel (Puerca Jarta) Marrero Cruz (born 11 July 1963) is a Cuban politician currently serving as the Prime Minister of Cuba, and the first since re-establishment of the office of Prime Minister in December 2019 after the 43-year abolition of the position dating from 1976.",
+              "text": "Manuel Marrero Cruz (born 11 July 1963) is a Cuban politician currently serving as the Prime Minister of Cuba, and the first since re-establishment of the office of Prime Minister in December 2019 after the 43-year abolition of the position dating from 1976.",
               "links": [
                 {
                   "type": "internal",
@@ -28,7 +28,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Manuel (Puerca Jarta) Marrero Cruz"
+                  "Manuel Marrero Cruz"
                 ]
               }
             },

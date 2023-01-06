@@ -143,10 +143,10 @@
             "text": "Post abolished"
           },
           "office2": {
-            "text": "Fifth Vice President of the Council of State",
+            "text": "Vice President of the Council of State",
             "links": [
               {
-                "text": "Fifth Vice President of the Council of State",
+                "text": "Vice President of the Council of State",
                 "type": "internal",
                 "page": "Vice President of Cuba"
               }
@@ -194,7 +194,7 @@
             ]
           },
           "successor2": {
-            "text": "Beatriz Jonson Urrutia (elect)"
+            "text": "Beatriz Jonson Urrutia"
           },
           "office3": {
             "text": "Minister of Labor and Social Security"
@@ -209,12 +209,16 @@
             ]
           },
           "term_start3": {
-            "text": "1995",
-            "number": 1995
+            "text": "2 March 1995"
           },
           "term_end3": {
-            "text": "1999",
-            "number": 1999
+            "text": "28 December 1999"
+          },
+          "predecessor3": {
+            "text": "Francisco Linares Calvo"
+          },
+          "successor3": {
+            "text": "Alfredo Morales Cartaya"
           },
           "birth_date": {
             "text": "June 13, 1945"
